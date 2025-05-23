@@ -55,6 +55,7 @@ Please include:
 - `ui/ux` - Interface issues
 - `mobile` - Mobile-specific
 - `performance` - Speed/optimization
+- `localization` - Translation and language issues
 
 ## Contact
 
