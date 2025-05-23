@@ -7,6 +7,8 @@ Bug reports, feature requests, and roadmap discussions for [TellerTratsch.de](ht
 - ✨ Feature requests
 - 💡 Roadmap discussions
 
+![](page_screenshot.jpg)
+
 ## Contributing
 
 > [!NOTE]
